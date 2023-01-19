@@ -5,10 +5,6 @@
 
 # What _is_ a DSL?
 
-###### _Submission deadline: Tuesday, Jan. 24 at 11:59pm_
-
-###### _Critique deadline: Friday, Jan. 27 at 11:59pm_
-
 In this assignment, you will read an introductory chapter about DSLs, which will
 give us some shared terminology for talking about DSLs and their
 implementations. Then you will find a DSL "in the wild" and describe its design
