@@ -1,7 +1,7 @@
 [assignment howto]: https://github.com/hmc-cs111-fall2016/hmc-cs111-fall2016.github.io/wiki/Assignment-HOWTO
 [fowler]: https://sakai.claremont.edu/access/content/group/CX_mtg_160537/Fowler_Chapter2.pdf
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[pulls]: https://github.com/hmc-cs111-spring-2023/what-is-a-DSL/pulls
+[pulls]: https://github.com/hmc-cs111-spring2023/what-is-a-DSL/pulls
 
 # What _is_ a DSL?
 
