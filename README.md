@@ -93,7 +93,7 @@ review is on the right side of this table:
 | Christian | Selim (selimbayar) |
 | Everett | Occam (occamkg) |
 | Georgia | Charlie (cweismann) |
-| Kate | Brandon () |
+| Kate | Brandon (BBecker8) |
 | Lilly | Carson () |
 | Occam | Everett (everettbu) |
 | Phoebe | Cas (cruedy) |
