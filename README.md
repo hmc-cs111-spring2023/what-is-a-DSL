@@ -22,7 +22,7 @@ After this assignment, you should be able to:
 
 For the technical part of the assignment, you will work by yourself (though you're
 free to talk about the assignment with anyone). For the critique part of the
-assignment, you will pick a partner and review each other's work.
+assignment, you and a partner will review each other's work.
 
 ## Read up on the assignment workflow
 
@@ -36,7 +36,7 @@ self-contained. In a few places, Fowler references other parts of the book.
 Ignore these references; you can understand the reading without them. It may be
 helpful to know that, in Chapter 1, Fowler described a domain called Miss
 Grant's Controller. You can safely substitute the domain you choose for your DSL
-in place of Miss Grant's Controller.
+(see below) in place of Miss Grant's Controller.
 
 _<sup>1</sup> This copy of the reading is for class use only. You should not distribute
 it to anyone outside the class. You should destroy your digital copy when the
@@ -44,12 +44,15 @@ class is over._
 
 ## Find a DSL
 
-Find a DSL---one that you think most other people in the class _won’t_ know.
+Find a DSL—one that you think most other people in the class _won’t_ know.
 When picking a DSL, it's good to pick one for which you can find a few
 example programs, so you can get a good sense of it. Sometimes it's hard to be
 sure whether or not a language is actually a DSL. That's okay! If you find a
 language that you think _might_ be a DSL, but you're not sure, then go with
-it---just assume that it _is_ a DSL.
+it—just assume that it _is_ a DSL.
+
+_Tip:_ One way to find DSLs is to search the web for "`domain` DSL", where `domain` is a
+topic you are interested in (for example, animation, abstract algebra, juggling, etc.).
 
 ## Describe your DSL
 
@@ -67,8 +70,8 @@ that you can find about your DSL. Your answers must be formatted in [markdown].
    language such as functions or control structures.
 
 3. Export a nice image from your program. (Choose the `Render` menu, then `Save
-Image...`) Use a `.png` extension, so your filename should be `
-firstname_lastname_variant.png` (where `variant` is the three-letter variant the
+Output...`) Use a `.png` extension, so your filename should be `
+firstname_lastname_variation.png` (where `variation` is the three-letter variation the
    uniquely identifies this version of your program).
 
 4. Answer the questions in `context-free.md`.
@@ -79,23 +82,23 @@ Your name is on the left side of this table; the person whose work you should
 review is on the right side of this table:
 
 | Your name | Your critique partner's name (GitHub ID) |
-| --------- | ---------------------------------------- |
-| Adam      | Ryder (rmitchellPitzer)                  |
-| Ash       | Chris (cgcouto)                          |
-| Brandon   | Kate (muffinkate)                        |
-| Carson    | Lilly (lillee205)                        |
-| Cas       | Phoebe (pc027)                           |
-| Charlie   | Georgia (georgia-reb)                    |
-| Chris     | Ash (aayush141)                          |
-| Christian | Selim (selimbayar)                       |
-| Everett   | Occam (occamkg)                          |
-| Georgia   | Charlie (cweismann)                      |
-| Kate      | Brandon ()                               |
-| Lilly     | Carson ()                                |
-| Occam     | Everett (everettbu)                      |
-| Phoebe    | Cas (cruedy)                             |
-| Ryder     | Adam (adamrbeckwith)                     |
-| Selim     | Christian (cvaldovinos)                  |
+| — | —- |
+| Adam | Ryder (rmitchellPitzer) |
+| Ash | Chris (cgcouto) |
+| Brandon | Kate (muffinkate) |
+| Carson | Lilly (lillee205) |
+| Cas | Phoebe (pc027) |
+| Charlie | Georgia (georgia-reb) |
+| Chris | Ash (aayush141) |
+| Christian | Selim (selimbayar) |
+| Everett | Occam (occamkg) |
+| Georgia | Charlie (cweismann) |
+| Kate | Brandon () |
+| Lilly | Carson () |
+| Occam | Everett (everettbu) |
+| Phoebe | Cas (cruedy) |
+| Ryder | Adam (adamrbeckwith) |
+| Selim | Christian (cvaldovinos) |
 
 ## Peer-review your partner's work
 
@@ -119,7 +122,7 @@ might consider / answer when providing feedback:
 
 ## Grading
 
-Good responses (i.e., responses that receive a B) will:
+Good responses will:
 
 - fully respond to every prompt in the starter file, _and_
 - be well-written and easy to read, i.e., clear yet concise using good
@@ -128,7 +131,7 @@ Good responses (i.e., responses that receive a B) will:
 - where appropriate, support your thoughts with references to material from
   the reading or from language documentation.
 
-Great responses (i.e., responses that receive a A) will additionally:
+Great responses will additionally:
 
 - be particularly insightful, by using concepts from the reading to classify
   aspects of each DSL in the assignment and / or by disagreeing with the
