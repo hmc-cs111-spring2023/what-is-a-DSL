@@ -1,4 +1,4 @@
-[assignment howto]: https://github.com/hmc-cs111-fall2016/hmc-cs111-fall2016.github.io/wiki/Assignment-HOWTO
+[assignment howto]: https://sakai.claremont.edu/x/v8BuEq
 [fowler]: https://sakai.claremont.edu/access/content/group/CX_mtg_160537/Fowler_Chapter2.pdf
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [pulls]: https://github.com/hmc-cs111-spring2023/what-is-a-DSL/pulls
@@ -87,31 +87,17 @@ firstname_lastname_variant.png` (where `variant` is the three-letter variant the
 Your name is on the left side of this table; the person whose work you should
 review is on the right side of this table:
 
-| Your name    | Your critique partner's name |
-| ------------ | ---------------------------- |
-| Adam B.      | Everett B.                   |
-| Ash S.       | Georgia K.                   |
-| Brandon B.   | Kate P.                      |
-| Carson F.    | Lilly L.                     |
-| Cas R.       | Occam K.                     |
-| Charlie W.   | Phoebe C.                    |
-| Chris C.     | Ryder M.                     |
-| Christian V. | Selim B.                     |
-| Everett B.   | Adam B.                      |
-| Georgia K.   | Ash S.                       |
-| Kate P.      | Brandon B.                   |
-| Lilly L.     | Carson F.                    |
-| Occam K.     | Cas R.                       |
-| Phoebe C.    | Charlie W.                   |
-| Ryder M.     | Chris C.                     |
-| Selim B.     | Christian V.                 |
+| Your name | Your critique partner's name |
+| --------- | ---------------------------- |
 
 ## Peer-review your partner's work
 
-Once your partner has submitted, you can comment on their work. You should find
-their work linked on the [pull request page][pulls]. Provide feedback on all
-aspects of your partner's work, including the information in `my-dsl.md`,
-`context-free.md`, their code, and their image. Here are some questions you
+After the due date (or if your partner tells you they have finished), you can comment on
+their work. To locate their assignment and comment on their code, follow the instructions
+in the [This article][assignment howto].
+
+Provide feedback on all aspects of your partner's work, including the information in
+`my-dsl.md`, `context-free.md`, their code, and their image. Here are some questions you
 might consider / answer when providing feedback:
 
 - Would you answer a question from the assignment differently than your partner
@@ -126,7 +112,7 @@ might consider / answer when providing feedback:
 
 ## Grading
 
-Good responses (i.e., responses that receive a 3) will:
+Good responses (i.e., responses that receive a B) will:
 
 - fully respond to every prompt in the starter file, _and_
 - be well-written and easy to read, i.e., clear yet concise using good
@@ -135,7 +121,7 @@ Good responses (i.e., responses that receive a 3) will:
 - where appropriate, support your thoughts with references to material from
   the reading or from language documentation.
 
-Great responses (i.e., responses that receive a 4) will additionally:
+Great responses (i.e., responses that receive a A) will additionally:
 
 - be particularly insightful, by using concepts from the reading to classify
   aspects of each DSL in the assignment and / or by disagreeing with the
