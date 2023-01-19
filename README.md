@@ -15,7 +15,7 @@ After this assignment, you should be able to:
 
 - Recognize properties of a DSL, and evaluate those properties using common
   terms.
-- Write in at least two DSLs (ContextFree and Markdown).
+- Use at least two DSLs (ContextFree and Markdown).
 - Use GitHub as a submission system.
 
 ## Teamwork
