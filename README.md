@@ -78,24 +78,24 @@ firstname_lastname_variant.png` (where `variant` is the three-letter variant the
 Your name is on the left side of this table; the person whose work you should
 review is on the right side of this table:
 
-| Your name | Your critique partner's name |
-| --------- | ---------------------------- |
-| Adam      | Ryder (rmitchellPitzer)      |
-| Ash       | Chris (cgcouto)              |
-| Brandon   | Kate (muffinkate)            |
-| Carson    | Lilly (lillee205)            |
-| Cas       | Phoebe (pc027)               |
-| Charlie   | Georgia (georgia-reb)        |
-| Chris     | Ash (aayush141)              |
-| Christian | Selim (selimbayar)           |
-| Everett   | Occam (occamkg)              |
-| Georgia   | Charlie (cweismann)          |
-| Kate      | Brandon ()                   |
-| Lilly     | Carson ()                    |
-| Occam     | Everett (everettbu)          |
-| Phoebe    | Cas (cruedy)                 |
-| Ryder     | Adam (adamrbeckwith)         |
-| Selim     | Christian (cvaldovinos)      |
+| Your name | Your critique partner's name (GitHub ID) |
+| --------- | ---------------------------------------- |
+| Adam      | Ryder (rmitchellPitzer)                  |
+| Ash       | Chris (cgcouto)                          |
+| Brandon   | Kate (muffinkate)                        |
+| Carson    | Lilly (lillee205)                        |
+| Cas       | Phoebe (pc027)                           |
+| Charlie   | Georgia (georgia-reb)                    |
+| Chris     | Ash (aayush141)                          |
+| Christian | Selim (selimbayar)                       |
+| Everett   | Occam (occamkg)                          |
+| Georgia   | Charlie (cweismann)                      |
+| Kate      | Brandon ()                               |
+| Lilly     | Carson ()                                |
+| Occam     | Everett (everettbu)                      |
+| Phoebe    | Cas (cruedy)                             |
+| Ryder     | Adam (adamrbeckwith)                     |
+| Selim     | Christian (cvaldovinos)                  |
 
 ## Peer-review your partner's work
 
