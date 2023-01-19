@@ -94,7 +94,7 @@ review is on the right side of this table:
 | Everett   | Occam (occamkg)                          |
 | Georgia   | Charlie (cweismann)                      |
 | Kate      | Brandon (BBecker8)                       |
-| Lilly     | Carson ()                                |
+| Lilly     | Carson (carsonfrench)                    |
 | Occam     | Everett (everettbu)                      |
 | Phoebe    | Cas (cruedy)                             |
 | Ryder     | Adam (adamrbeckwith)                     |
