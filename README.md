@@ -59,17 +59,12 @@ that you can find about your DSL. Your answers must be formatted in [markdown].
 
 ## Learn, use, and critique ContextFree
 
-1. Download ContextFree, a domain-specific language for making art. **You should
-   download version 2.2**, which is _not_ the current version of the language.
-   (download: [Windows](http://www.contextfreeart.org/download/ContextFreeInstall2.2.2.exe),
-   [Mac](http://www.contextfreeart.org/download/ContextFree2.2.2.dmg),
-   [Linux](http://www.contextfreeart.org/download/ContextFreeSource2.2.2.tgz)).
-   The version 2.2 documentation is
-   [here](https://github.com/MtnViewJohn/context-free/wiki/Version-2-Syntax).
+1. Download [ContextFree](https://www.contextfreeart.org/), a domain-specific language for making art.
 
 2. Write an interesting ContextFree program. Save your program in a file called
    `firstname_lastname.cfdg` (where you fill in your first and last names, of
-   course).
+   course). I recommend keeping it simple! No need to use advanced features of the
+   language such as functions or control structures.
 
 3. Export a nice image from your program. (Choose the `Render` menu, then `Save
 Image...`) Use a `.png` extension, so your filename should be `
@@ -85,6 +80,22 @@ review is on the right side of this table:
 
 | Your name | Your critique partner's name |
 | --------- | ---------------------------- |
+| Adam      | Ryder (rmitchellPitzer)      |
+| Ash       | Chris (cgcouto)              |
+| Brandon   | Kate (muffinkate)            |
+| Carson    | Lilly (lillee205)            |
+| Cas       | Phoebe (pc027)               |
+| Charlie   | Georgia (georgia-reb)        |
+| Chris     | Ash (aayush141)              |
+| Christian | Selim (selimbayar)           |
+| Everett   | Occam (occamkg)              |
+| Georgia   | Charlie (cweismann)          |
+| Kate      | Brandon ()                   |
+| Lilly     | Carson ()                    |
+| Occam     | Everett (everettbu)          |
+| Phoebe    | Cas (cruedy)                 |
+| Ryder     | Adam (adamrbeckwith)         |
+| Selim     | Christian (cvaldovinos)      |
 
 ## Peer-review your partner's work
 
