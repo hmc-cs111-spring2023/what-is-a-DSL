@@ -101,7 +101,7 @@ review is on the right side of this table:
 
 After the due date (or if your partner tells you they have finished), you can comment on
 their work. To locate their assignment and comment on their code, follow the instructions
-in the [This article][assignment howto].
+in [this article][assignment howto].
 
 Provide feedback on all aspects of your partner's work, including the information in
 `my-dsl.md`, `context-free.md`, their code, and their image. Here are some questions you
