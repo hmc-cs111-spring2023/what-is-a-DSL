@@ -85,6 +85,7 @@ review is on the right side of this table:
 | --------- | ---------------------------------------- |
 | Adam      | Ryder (rmitchellPitzer)                  |
 | Ash       | Chris (cgcouto)                          |
+| Ben       | Olivia (OliveBattle)                     |
 | Brandon   | Kate (muffinkate)                        |
 | Carson    | Lilly (lillee205)                        |
 | Cas       | Phoebe (pc027)                           |
@@ -96,6 +97,7 @@ review is on the right side of this table:
 | Kate      | Brandon (BBecker8)                       |
 | Lilly     | Carson (carsonfrench)                    |
 | Occam     | Everett (everettbu)                      |
+| Olivia    | Ben (benwiedermann)                      |
 | Phoebe    | Cas (cruedy)                             |
 | Ryder     | Adam (adamrbeckwith)                     |
 | Selim     | Christian (cvaldovinos)                  |
